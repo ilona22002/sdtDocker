@@ -1,4 +1,2 @@
 # sdtDocker
-Here is something
-
-Something
+This is an example of modifying docker information for portainer
